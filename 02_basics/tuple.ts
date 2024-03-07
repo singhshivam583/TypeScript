@@ -13,3 +13,4 @@ const newUser : User = [987654321, "Shivam"]
 newUser[1] = 'shivam singh'
 
 // newUser.push(true)
+export{}

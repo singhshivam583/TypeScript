@@ -40,9 +40,10 @@ const data2: (string | number | boolean)[] = [1,'a',true,false]
 
 
 let pi:3.14 = 3.14
-pi = 3.145
+// pi = 3.145
 
 let seatAllotment: 'aisle' | 'middle' | 'window'
 seatAllotment = 'aisle'
-seatAllotment = 'crew'
+// seatAllotment = 'crew'
 
+export{}
